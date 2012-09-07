@@ -42,7 +42,7 @@ table.diff tbody th {
 	font-weight:normal;
 	border:1px solid #BBC;
 	color:#886;
-	padding:.3em .5em .1em 2em;
+	padding:.3em .em .1em 2em;
 	text-align:right;
 	vertical-align:top
 }
